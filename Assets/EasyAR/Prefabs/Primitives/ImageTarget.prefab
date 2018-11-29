@@ -82,7 +82,7 @@ MonoBehaviour:
   Size: {x: 0, y: 0}
   ActiveTargetOnStart: 1
   trackerBaseBehaviour: {fileID: 0}
-  trackerBaseBehaviourHasSet: 0
+  trackerBaseBehaviourHasSet: 1
   lockSizeRatio: 0
 --- !u!1001 &100100000
 Prefab:
