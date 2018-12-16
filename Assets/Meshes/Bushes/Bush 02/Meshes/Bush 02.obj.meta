@@ -27,12 +27,22 @@ ModelImporter:
     4300002: Bush_02
     4300004: Bush_02_collider
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bush_02Mat
+    second: {fileID: 2100000, guid: b137de3089e12324b9abf828a88cf258, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bush_02_colliderMat
+    second: {fileID: 2100000, guid: b137de3089e12324b9abf828a88cf258, type: 2}
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 0
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0

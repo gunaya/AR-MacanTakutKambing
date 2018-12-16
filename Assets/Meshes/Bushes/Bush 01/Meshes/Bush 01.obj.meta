@@ -17,6 +17,7 @@ ModelImporter:
     400002: //RootNode
     400004: Bush_01
     400006: Bush_01_collider
+    2100000: Bush_01_colliderMat
     2300000: bush_01
     2300002: Bush_01
     2300004: Bush_01_collider
@@ -27,12 +28,22 @@ ModelImporter:
     4300002: Bush_01
     4300004: Bush_01_collider
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bush_01Mat
+    second: {fileID: 2100000, guid: 120412557764d044b8c2f6ffcda4b99b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bush_01_colliderMat
+    second: {fileID: 2100000, guid: 120412557764d044b8c2f6ffcda4b99b, type: 2}
   materials:
-    importMaterials: 0
-    materialName: 0
+    importMaterials: 1
+    materialName: 2
     materialSearch: 0
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
