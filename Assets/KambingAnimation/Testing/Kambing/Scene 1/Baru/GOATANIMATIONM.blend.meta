@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 9fac55e4320f36f4abdddbe41a0569f1
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 12958_Spider_Monkey_001
+    100002: Armature
+    100004: Armature_002
+    100006: Bone
+    100008: Bone_001
+    100010: Bone_001_L
+    100012: Bone_001_L_001
+    100014: Bone_001_L_002
+    100016: Bone_001_L_003
+    100018: Bone_001_L_004
+    100020: Bone_001_L_005
+    100022: Bone_001_R
+    100024: Bone_001_R_001
+    100026: Bone_001_R_002
+    100028: Bone_001_R_003
+    100030: Bone_001_R_004
+    100032: Bone_001_R_005
+    100034: Bone_002
+    100036: Bone_002_L
+    100038: Bone_002_L_001
+    100040: Bone_002_L_002
+    100042: Bone_002_L_003
+    100044: Bone_002_L_004
+    100046: Bone_002_L_005
+    100048: Bone_002_R
+    100050: Bone_002_R_001
+    100052: Bone_002_R_002
+    100054: Bone_002_R_003
+    100056: Bone_002_R_004
+    100058: Bone_002_R_005
+    100060: Bone_003
+    100062: Bone_004
+    100064: Bone_005
+    100066: Bone_006
+    100068: Bone_007
+    100070: Bone_008
+    100072: Bone_009
+    100074: Bone_009_L
+    100076: Bone_009_L_001
+    100078: Bone_009_R
+    100080: Bone_009_R_001
+    100082: Bone_010
+    100084: Bone_010_L
+    100086: Bone_010_R
+    100088: Bone_011
+    100090: Bone_012
+    100092: Bone_013
+    100094: Bone_014
+    100096: Bone_015
+    100098: Bone_016
+    100100: Bone_017
+    100102: goat_001
+    100104: //RootNode
+    100106: Tiger_001
+    100108: WGT-rig_root
+    100110: WGTS_rig
+    400000: 12958_Spider_Monkey_001
+    400002: Armature
+    400004: Armature_002
+    400006: Bone
+    400008: Bone_001
+    400010: Bone_001_L
+    400012: Bone_001_L_001
+    400014: Bone_001_L_002
+    400016: Bone_001_L_003
+    400018: Bone_001_L_004
+    400020: Bone_001_L_005
+    400022: Bone_001_R
+    400024: Bone_001_R_001
+    400026: Bone_001_R_002
+    400028: Bone_001_R_003
+    400030: Bone_001_R_004
+    400032: Bone_001_R_005
+    400034: Bone_002
+    400036: Bone_002_L
+    400038: Bone_002_L_001
+    400040: Bone_002_L_002
+    400042: Bone_002_L_003
+    400044: Bone_002_L_004
+    400046: Bone_002_L_005
+    400048: Bone_002_R
+    400050: Bone_002_R_001
+    400052: Bone_002_R_002
+    400054: Bone_002_R_003
+    400056: Bone_002_R_004
+    400058: Bone_002_R_005
+    400060: Bone_003
+    400062: Bone_004
+    400064: Bone_005
+    400066: Bone_006
+    400068: Bone_007
+    400070: Bone_008
+    400072: Bone_009
+    400074: Bone_009_L
+    400076: Bone_009_L_001
+    400078: Bone_009_R
+    400080: Bone_009_R_001
+    400082: Bone_010
+    400084: Bone_010_L
+    400086: Bone_010_R
+    400088: Bone_011
+    400090: Bone_012
+    400092: Bone_013
+    400094: Bone_014
+    400096: Bone_015
+    400098: Bone_016
+    400100: Bone_017
+    400102: goat_001
+    400104: //RootNode
+    400106: Tiger_001
+    400108: WGT-rig_root
+    400110: WGTS_rig
+    2100000: Material__0_001__bengal_tiger_jpg_001
+    2100002: 12958_Spider_Monkey_001__12958_Spider_Monkey_diff_jpg_001
+    2100004: goat_001__goat_d_dds_002
+    2300000: 12958_Spider_Monkey_001
+    2300002: Tiger_001
+    2300004: WGT-rig_root
+    2300006: WGTS_rig
+    3300000: 12958_Spider_Monkey_001
+    3300002: Tiger_001
+    3300004: WGT-rig_root
+    3300006: WGTS_rig
+    4300000: WGTS_rig
+    4300002: WGT-rig_root
+    4300004: Tiger_001
+    4300006: 12958_Spider_Monkey_001
+    4300008: goat_001
+    7400000: Default Take
+    7400002: ArmatureAction_001
+    7400004: PoseLib_002
+    9500000: //RootNode
+    13700000: goat_001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 189
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ArmatureAction_001
+      takeName: ArmatureAction_001
+      firstFrame: -1
+      lastFrame: 319
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PoseLib_002
+      takeName: PoseLib_002
+      firstFrame: 0
+      lastFrame: 4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
